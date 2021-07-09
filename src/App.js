@@ -5,7 +5,7 @@ function App() {
 
   return
 <div>
-<Numpad value={1}/>
+<Numpad value={2}/>
 </div>
   }
 
