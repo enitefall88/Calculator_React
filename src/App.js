@@ -2,11 +2,9 @@ import React from "react";
 import Numpad from "./Numpad"
 
 function App() {
-
-  return
-<div>
-<Numpad value={2}/>
+return <div>
+<Numpad/>
 </div>
-  }
+}
 
 export default App;
